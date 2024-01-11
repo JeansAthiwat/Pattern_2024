@@ -1,3 +1,7 @@
+# Read Me Bro
+a forked repo for PATTERN RECOGNITION Subject.
+
+Probably will be use to keep my HomeWork and Project and smtn.
 # Pattern_2024
 Pattern @ chula 2024
 
